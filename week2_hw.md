@@ -1,5 +1,7 @@
 1. linear regression
+# Spring Fitting
 
+![spring fitting](images/01_spring_fitting.png)
 
 
 2. unsupervised learning_clustering
